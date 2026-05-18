@@ -1,0 +1,10 @@
+{
+  "hiddenMsg0DuplicateAddGuard": true,
+  "hiddenMsg0CancelCleansTextareas": true,
+  "hiddenMsg0ConfirmCleansTextareas": true,
+  "hiddenMsg1Independent": true,
+  "visibleReasoningDuplicateEditGuard": true,
+  "finalNoLingeringTextareas": true,
+  "finalHiddenStillHidden": true,
+  "finalVisibleStillVisible": true
+}

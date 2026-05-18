@@ -1,0 +1,4 @@
+{"chat_metadata":{"integrity":"5636-later-recording-proof"},"user_name":"unused","character_name":"unused"}
+{"extra":{"reasoning":"\n"},"name":"Ilo","is_user":false,"is_system":false,"send_date":"May 18, 2026 16:10","mes":"Foo: first whitespace-only reasoning block."}
+{"extra":{"reasoning":"\n"},"name":"Ilo","is_user":false,"is_system":false,"send_date":"May 18, 2026 16:11","mes":"Bar: second whitespace-only reasoning block that must stay hidden."}
+{"extra":{"reasoning":"Visible thought content"},"name":"Ilo","is_user":false,"is_system":false,"send_date":"May 18, 2026 16:12","mes":"Baz: visible reasoning control baseline."}
