@@ -1,0 +1,15 @@
+{
+  "baseURL": "http://127.0.0.1:8000",
+  "editingState": {
+    "detailsOpen": true,
+    "textareaCount": 1,
+    "textareaValue": "\n"
+  },
+  "finalState": {
+    "showHidden": "true",
+    "hasContent": "false",
+    "detailsOpen": false,
+    "textareaCount": 0,
+    "messageReasoning": "\n"
+  }
+}
